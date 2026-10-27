@@ -27,18 +27,18 @@ import {
   CulturalExperiment,
   QlooEntity,
   StrategyOption,
-} from './types';
+} from './types.ts';
 import {
   searchEntities,
   getInsights,
   QLOO_URN_TYPES,
   getQlooApiKey,
   QlooApiError,
-} from './qlooClient';
+} from './qlooClient.ts';
 import {
   auditAndVerifyClaims,
   RawCandidateClaim,
-} from './evidenceIntegrityEngine';
+} from './evidenceIntegrityEngine.ts';
 
 let genAIClient: GoogleGenAI | null = null;
 
