@@ -1,0 +1,6 @@
+{
+  "name": "CultureShift - Qloo Cultural Intelligence",
+  "description": "Editorial cultural intelligence platform for founders to stress-test product positioning using live taste and affinity insights from Qloo's Taste AI API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
