@@ -22,7 +22,7 @@ import {
   RedTeamStage,
   StrategyArchitectStage,
   ValidatedLaunchConfig,
-} from './types.ts';
+} from './types.js';
 
 export interface RawCandidateClaim {
   id?: string;

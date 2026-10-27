@@ -16,8 +16,8 @@ import {
   QLOO_URN_TYPES,
   QlooApiError,
   getQlooApiKey,
-} from './server/qlooClient.ts';
-import { AnalysisInput, DomainInsightGroup, QlooEntity } from './server/types.ts';
+} from './server/qlooClient.js';
+import { AnalysisInput, DomainInsightGroup, QlooEntity } from './server/types.js';
 
 dotenv.config();
 

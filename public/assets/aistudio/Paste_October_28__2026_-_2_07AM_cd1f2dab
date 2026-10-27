@@ -1,0 +1,828 @@
+me
+Source
+Message
+Oct 28 02:05:37.28
+/api/health
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/multiAgentOrchestrator' imported from /var/task/server.js
+ 
+Did you mean to import "./server/multiAgentOrchestrator.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/multiAgentOrchestrator'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 02:05:35.33
+/api/health
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/multiAgentOrchestrator' imported from /var/task/server.js
+ 
+Did you mean to import "./server/multiAgentOrchestrator.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/multiAgentOrchestrator'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 02:05:19.08
+/api/qloo/configure
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/multiAgentOrchestrator' imported from /var/task/server.js
+ 
+Did you mean to import "./server/multiAgentOrchestrator.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/multiAgentOrchestrator'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 02:05:06.00
+/api/analysis/run
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/multiAgentOrchestrator' imported from /var/task/server.js
+ 
+Did you mean to import "./server/multiAgentOrchestrator.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/multiAgentOrchestrator'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 02:05:04.70
+/api/health
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/multiAgentOrchestrator' imported from /var/task/server.js
+ 
+Did you mean to import "./server/multiAgentOrchestrator.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/multiAgentOrchestrator'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 02:04:31.14
+/api/health
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/multiAgentOrchestrator' imported from /var/task/server.js
+ 
+Did you mean to import "./server/multiAgentOrchestrator.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/multiAgentOrchestrator'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 02:04:30.53
+/api/health
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/multiAgentOrchestrator' imported from /var/task/server.js
+ 
+Did you mean to import "./server/multiAgentOrchestrator.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/multiAgentOrchestrator'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 01:56:40.43
+/api/qloo/configure
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/multiAgentOrchestrator' imported from /var/task/server.js
+ 
+Did you mean to import "./server/multiAgentOrchestrator.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/multiAgentOrchestrator'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 01:56:23.65
+/api/analysis/run
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/multiAgentOrchestrator' imported from /var/task/server.js
+ 
+Did you mean to import "./server/multiAgentOrchestrator.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/multiAgentOrchestrator'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 01:56:15.70
+/api/health
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/multiAgentOrchestrator' imported from /var/task/server.js
+ 
+Did you mean to import "./server/multiAgentOrchestrator.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/multiAgentOrchestrator'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 01:54:14.15
+/api/health
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/multiAgentOrchestrator' imported from /var/task/server.js
+ 
+Did you mean to import "./server/multiAgentOrchestrator.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/multiAgentOrchestrator'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 01:54:13.99
+/api/health
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/multiAgentOrchestrator' imported from /var/task/server.js
+ 
+Did you mean to import "./server/multiAgentOrchestrator.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/multiAgentOrchestrator'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 01:51:49.71
+/api/qloo/configure
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/qlooClient' imported from /var/task/server.js
+ 
+Did you mean to import "./server/qlooClient.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/qlooClient'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 01:51:42.20
+/api/qloo/configure
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/qlooClient' imported from /var/task/server.js
+ 
+Did you mean to import "./server/qlooClient.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/qlooClient'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 01:44:34.05
+/api/analysis/run
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/qlooClient' imported from /var/task/server.js
+ 
+Did you mean to import "./server/qlooClient.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/qlooClient'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 01:44:31.03
+/api/health
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/qlooClient' imported from /var/task/server.js
+ 
+Did you mean to import "./server/qlooClient.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/qlooClient'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 01:43:58.00
+/api/health
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/qlooClient' imported from /var/task/server.js
+ 
+Did you mean to import "./server/qlooClient.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/qlooClient'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+ 
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/qlooClient' imported from /var/task/server.js
+ 
+Did you mean to import "./server/qlooClient.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/qlooClient'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 01:43:57.54
+/api/health
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/qlooClient' imported from /var/task/server.js
+ 
+Did you mean to import "./server/qlooClient.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/qlooClient'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 01:43:57.36
+/api/health
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/qlooClient' imported from /var/task/server.js
+ 
+Did you mean to import "./server/qlooClient.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/qlooClient'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 01:43:57.04
+/api/health
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/qlooClient' imported from /var/task/server.js
+ 
+Did you mean to import "./server/qlooClient.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/qlooClient'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 01:37:54.99
+/api/analysis/run
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/qlooClient' imported from /var/task/server.js
+ 
+Did you mean to import "./server/qlooClient.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/qlooClient'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 01:37:36.05
+/api/health
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/qlooClient' imported from /var/task/server.js
+ 
+Did you mean to import "./server/qlooClient.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/qlooClient'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 01:37:15.23
+/api/health
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/qlooClient' imported from /var/task/server.js
+ 
+Did you mean to import "./server/qlooClient.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/qlooClient'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Oct 28 01:37:14.62
+/api/health
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/server/qlooClient' imported from /var/task/server.js
+ 
+Did you mean to import "./server/qlooClient.js"?
+ 
+    at finalizeResolution (node:internal/modules/esm/resolve:278:11)
+ 
+    at moduleResolve (node:internal/modules/esm/resolve:885:10)
+ 
+    at moduleResolveWithNodePath (node:internal/modules/esm/resolve:1012:14)
+ 
+    at defaultResolve (node:internal/modules/esm/resolve:1055:79)
+ 
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)
+ 
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)
+ 
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)
+ 
+    at #resolve (node:internal/modules/esm/loader:687:17)
+ 
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)
+ 
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33) {
+ 
+  code: 'ERR_MODULE_NOT_FOUND',
+ 
+  url: 'file:///var/task/server/qlooClient'
+ 
+}
+ 
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+No more logs to show within selected timeline
