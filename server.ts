@@ -142,7 +142,7 @@ app.post('/api/qloo/insights', async (req: Request, res: Response) => {
   }
 });
 
-import { executeMultiAgentWorkflow } from './server/multiAgentOrchestrator';
+import { executeMultiAgentWorkflow } from './server/multiAgentOrchestrator.js';
 
 // 6. Complete Cultural Intelligence Multi-Agent Analysis Workflow
 app.post('/api/analysis/run', async (req: Request, res: Response) => {
